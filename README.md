@@ -1,6 +1,6 @@
 # E-Commerce Sales & Customer Insights Dashboard (Excel)
 
-![Ecommerce Dashboard](./assets/Ecommerce-Dashboard.jpg)
+![Ecommerce Dashboard](./assets/Ecommerce-Dashboard.png)
 
 ## 📌 Project Overview
 This project is an **interactive Excel dashboard** designed to analyze e-commerce sales, customer behavior, product performance, logistics efficiency, and customer satisfaction.  
